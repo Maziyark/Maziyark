@@ -1,6 +1,6 @@
 
 
-- 📫 [Linkedin](https://www.linkedin.com/in/maziyark/) 
+📫 [Linkedin](https://www.linkedin.com/in/maziyark/) | [Github](https://github.com/mzyrke]
 
 <!---
 - 👋 Hi, I’m @Maziyark
